@@ -1,2 +1,2 @@
 # Adaptive-page
-adaptive site landing-page
+Превью для просмотра адаптивного сайта (flex)
